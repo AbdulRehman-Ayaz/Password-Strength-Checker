@@ -23,8 +23,11 @@ Results
 
 Example Output
 === PASSWORD STRENGTH CHECKER ===
+
 Enter your password: Hello123!
+
 Medium Password
+
 
 What I Learned
 - For loops
